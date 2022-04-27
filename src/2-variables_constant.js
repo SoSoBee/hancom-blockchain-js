@@ -29,3 +29,5 @@ console.log("full_name2 => ", full_name2);
 
 full_name2 = "홍길동";
 console.log("full_name2 => ", full_name2);
+
+// git test
